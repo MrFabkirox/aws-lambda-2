@@ -13,7 +13,7 @@ sudo chown -R $USER:$(id -gn $USER) /home/fab/.config
 
 --> go to aws Name/My Security Credentials/Access keys
 
-serverless config credentials --provider aws --key AKIAIATPXKSU4BHXPIVA --secret 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
+serverless config credentials --provider aws --key AXXXXXXXXXXXXXA --secret C6xxxxxxxxxxxxxxxxxx60
 
 cat /home/fab/.aws/credentials 
 
